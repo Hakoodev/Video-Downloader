@@ -11,10 +11,24 @@ This repository contains a simple Python script designed to download videos from
 - Python 3.x
 - [Any additional dependencies]
 
+## 🚀 Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/video-downloader.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd video-downloader
+    ```
+3. Install required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## 📖 Usage
 1. Run the script with the following command:
     ```bash
-    python app.py
+    python video_downloader.py
     ```
 2. Follow the prompts to input the video URL and select download options.
 
@@ -22,4 +36,4 @@ This repository contains a simple Python script designed to download videos from
 Here's a quick example of how to use the script:
 ```bash
 python video_downloader.py
-# Enter Youtube video URL and Downlaod it as mp3 or mp4
+# Enter the video URL when prompted
