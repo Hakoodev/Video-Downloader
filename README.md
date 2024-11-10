@@ -22,4 +22,4 @@ This repository contains a simple Python script designed to download videos from
 Here's a quick example of how to use the script:
 ```bash
 python video_downloader.py
-# Enter the video URL when prompted
+# Enter Youtube video URL and Downlaod it as mp3 or mp4
